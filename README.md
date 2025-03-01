@@ -9,7 +9,7 @@ Main Features
 - Screen Color Change: Change the screen’s color using the switches.
 - Tone Switching: Select different audio tones by using the switches.
 
-Hardware Setup**
+Hardware Setup
 
 Required:
 - DE1-SoC Board  
