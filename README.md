@@ -1,6 +1,6 @@
-Audio Controller Project for DE1-SoC Board
+# Audio Controller Project for DE1-SoC Board
 
-Overview
+# Overview
 This project uses the DE1-SoC board to control audio volume, change screen colors, and switch audio tones. The KEYs and switches on the board are used to interact with these features.
 
 Main Features
@@ -9,7 +9,7 @@ Main Features
 - Screen Color Change: Change the screen’s color using the switches.
 - Tone Switching: Select different audio tones by using the switches.
 
-Hardware Setup
+# Hardware Setup
 
 Required:
 - DE1-SoC Board  
@@ -22,7 +22,7 @@ Inputs:
 
 ---
 
-How to Use
+# How to Use
 1. Power on the DE1-SoC board.
 2. Use the buttons and switches to control:
    - KEY0: Increase the volume  
@@ -30,7 +30,7 @@ How to Use
    - SW0–SW3: Change the screen color  
 3. Listen to the sound output and watch the screen change.
 
-How to Set Up
+# How to Set Up
 1. Open the project in Quartus.
 2. Set up the required pin assignments and compile the project.
 3. Upload it to the DE1-SoC board and test its functionality.
